@@ -1,3 +1,3 @@
 # Github_test
-first repository
+First repository!
 I'm learning github with this repository!
